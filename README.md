@@ -114,8 +114,7 @@ This project is designed to automate the testing of an enterprise-level website.
 ---
 
 ## Contributors
-- [Your Name]
-- [Contributor 2]
+--Deepak--
 
 ---
 
